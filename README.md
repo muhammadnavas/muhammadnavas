@@ -1,4 +1,4 @@
-# Hi, I'm Navas  
+# Hi, I'm Muhammad Navas  
 A passionate engineering student and developer
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Web Development**  
