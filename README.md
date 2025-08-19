@@ -1,10 +1,9 @@
 # Hi, I'm Navas  
-A passionate engineering student and developer from India 🇮🇳  
+A passionate engineering student and developer
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Web Development**  
 - 📄 Check out my resume here → [My Resume](https://drive.google.com/file/d/1IBh79_-krUo_aRFdPMELua2Ro_hKu6_N/view?usp=drive_link)  
 - 📂 All of my projects are available on [GitHub](https://github.com/muhammadnavas)  
-- 💬 Ask me about **Python, Web Development, and Machine Learning**  
 - 📫 Reach me at **navasns0409@gmail.com**  
 
 ---
@@ -22,7 +21,6 @@ A passionate engineering student and developer from India 🇮🇳
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -33,7 +31,6 @@ A passionate engineering student and developer from India 🇮🇳
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
