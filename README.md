@@ -1,28 +1,27 @@
 # Hi, I'm Muhammad Navas  
-A passionate engineering student and developer
+A passionate **Engineering Student** and **Developer**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Web Development**  
-- 📄 Check out my resume here → [My Resume](https://drive.google.com/file/d/1IBh79_-krUo_aRFdPMELua2Ro_hKu6_N/view?usp=drive_link)  
-- 📂 All of my projects are available on [GitHub](https://github.com/muhammadnavas)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadnavas/)  
-- 🏆 Check out my [LeetCode](https://leetcode.com/muhammadnavas/) profile
+- 🌱 Currently learning **Artificial Intelligence, Machine Learning, and Web Development**  
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1IBh79_-krUo_aRFdPMELua2Ro_hKu6_N/view?usp=drive_link)**  
+- 📂 Explore all my projects on **[GitHub](https://github.com/muhammadnavas)**  
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammadnavas/)**  
+- 🏆 Problem-solving on **[LeetCode](https://leetcode.com/muhammadnavas/)**  
 - 📫 Reach me at **navasns0409@gmail.com**  
 
 ---
 
 ### 📊 GitHub Stats
-![Navas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default) 
+![Navas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default&cache_seconds=3600&v=2)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=muhammadnavas&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=muhammadnavas&theme=default&hide_border=false&v=2)
 
 ### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=default&cache_seconds=1800)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=default&cache_seconds=3600&v=2)
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
