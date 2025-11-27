@@ -2,7 +2,7 @@
 A passionate **Engineering Student** and **Developer**
 
 - 🌱 Currently learning **Artificial Intelligence, Machine Learning, and Web Development**  
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1IBh79_-krUo_aRFdPMELua2Ro_hKu6_N/view?usp=drive_link)**  
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/15Zmk3wc4nab3TyxSGcFbWEWRBMaekFGn/view?usp=sharing)**  
 - 📂 Explore all my projects on **[GitHub](https://github.com/muhammadnavas)**  
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammadnavas/)**  
 - 🏆 Problem-solving on **[LeetCode](https://leetcode.com/muhammadnavas/)**  
