@@ -11,13 +11,13 @@ A passionate **Engineering Student** and **Developer**
 ---
 
 ### 📊 GitHub Stats
-![Navas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default&cache_seconds=3600&v=2)
+![Navas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default&v=2)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=muhammadnavas&theme=default&hide_border=false&v=2)
 
 ### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=default&cache_seconds=3600&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=default&v=2)
 
 ---
 
