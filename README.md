@@ -36,4 +36,4 @@ A passionate **Engineering Student** and **Developer**
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=muhammadnavas&color=white)
+![Profile views](https://komarev.com/ghpvc/?username=muhammadnavas&color=blue)
