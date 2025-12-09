@@ -1,12 +1,12 @@
 # Hi, I'm Muhammad Navas  
 A passionate **Engineering Student** and **Developer**
 
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning, and Full Stack Development**  
+- 🌱 Currently learning **Artificial Intelligence, Machine Learning & Full Stack Development**  
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1JQbsJLBnnsFfIwL0xQJIgNvjZ-EirBDD/view?usp=sharing)**  
 - 📂 Explore all my projects on **[GitHub](https://github.com/muhammadnavas)**  
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammadnavas)**  
 - 🏆 Problem-solving on **[LeetCode](https://leetcode.com/muhammadnavas)**  
-- 📫 Reach me at **navasns0409@gmail.com**  
+- 📫 Reach me at **navasns0409@gmail.com**
 
 ---
 
