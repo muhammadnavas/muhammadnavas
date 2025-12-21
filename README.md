@@ -17,7 +17,7 @@ A passionate **Engineering Student** and **Developer**
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=muhammadnavas&show_icons=true)
 
 ### 📌 Top Languages
-![Top Languages](![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact)
 
 ---
 
