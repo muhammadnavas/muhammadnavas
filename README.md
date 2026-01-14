@@ -11,14 +11,13 @@ A passionate **Engineering Student** and **Developer**
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default" />
+![Stats](https://img.shields.io/badge/Contributions-835-blue)
 
 ### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=muhammadnavas&theme=default" />
+![Streak](https://img.shields.io/badge/Current_Streak-12_days-orange)
 
 ### 📌 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=default" />
-
+![Languages](https://img.shields.io/badge/Top_Language-Python-green)
 
 ---
 
