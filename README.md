@@ -11,7 +11,7 @@ A passionate **Engineering Student** and **Developer**
 ---
 
 ### 📊 GitHub Stats
-![Navas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=default&cache_seconds=1800)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=muhammadnavas&show_icons=true)
