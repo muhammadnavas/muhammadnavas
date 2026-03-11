@@ -11,7 +11,7 @@ A passionate **Engineering Student** and **Developer**
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://navas-github-stats.vercel.app/api?username=muhammadnavas&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=muhammadnavas&show_icons=true)
