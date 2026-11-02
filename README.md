@@ -58,7 +58,7 @@ I'm passionate about technology and software development, with an interest in bu
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadnavas&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](profile/streak.svg)
 
 ---
 
