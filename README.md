@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Navas 👋
+# Hi, I'm Muhammad Navas 
 
 **Computer Science Engineering Student | Aspiring AI/ML Engineer**
 
