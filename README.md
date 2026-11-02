@@ -1,12 +1,12 @@
 # Hi, I'm Muhammad Navas 👋
 
-**AI/ML Developer | Computer Science Engineering Student**
+**Computer Science Engineering Student | Aspiring AI/ML Engineer**
 
-I enjoy building practical software at the intersection of **Artificial Intelligence, automation, and full-stack development**. I work on LLM-powered applications, intelligent agents, and web platforms — turning ideas into useful products.
+I'm passionate about technology and software development, with an interest in building intelligent, scalable, and user-focused solutions. I enjoy learning new technologies, solving problems, and applying concepts from computer science, artificial intelligence, and software engineering.
 
 - 🎓 B.E. in Computer Science (AI & ML)
-- 🤖 Interested in LLMs, RAG systems, AI agents, and machine learning
-- 🛠️ Building with Python, FastAPI, React, and modern AI tools
+- 💡 Interested in Artificial Intelligence, Machine Learning, and Software Development
+- 🌱 Continuously learning and exploring emerging technologies
 - 📄 [Resume](https://drive.google.com/file/d/1JQbsJLBnnsFfIwL0xQJIgNvjZ-EirBDD/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadnavas)
 - 🧩 [LeetCode](https://leetcode.com/muhammadnavas)
@@ -14,12 +14,13 @@ I enjoy building practical software at the intersection of **Artificial Intellig
 
 ---
 
-### What I Work On
+### Areas of Interest
 
-- **AI Agents & Browser Automation** — multi-step task execution, browser interaction, action verification, and human-in-the-loop workflows.
-- **LLM Applications** — retrieval-augmented generation (RAG), document question answering, embeddings, and vector search.
-- **Machine Learning** — building and evaluating models for practical prediction and classification problems.
-- **Full-Stack Development** — designing APIs and responsive applications with modern frontend and backend technologies.
+- Artificial Intelligence and Machine Learning
+- Generative AI and Large Language Models
+- Data Structures and Algorithms
+- Backend and Full-Stack Development
+- Software Engineering and System Design
 
 ### Tech Stack
 
@@ -30,7 +31,7 @@ I enjoy building practical software at the intersection of **Artificial Intellig
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Development**
+**Frameworks and Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -38,7 +39,7 @@ I enjoy building practical software at the intersection of **Artificial Intellig
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**AI / Data / Tools**
+**Tools and Technologies**
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
