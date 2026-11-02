@@ -54,9 +54,11 @@ I'm passionate about technology and software development, with an interest in bu
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&include_all_commits=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadnavas&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=muhammadnavas&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadnavas&theme=github-dark-blue&hide_border=true)
 
 ---
 
