@@ -3,6 +3,9 @@ name: Update GitHub Streak
 on:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
   workflow_dispatch:
 
 permissions:
@@ -18,8 +21,9 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&disable_animations=true
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
