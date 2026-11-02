@@ -1,42 +1,61 @@
-# Hi, I'm Muhammad Navas  
-A passionate **Engineering Student** and **Developer**
+# Hi, I'm Muhammad Navas 👋
 
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning, Full Stack Development**  
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1JQbsJLBnnsFfIwL0xQJIgNvjZ-EirBDD/view?usp=sharing)**  
-- 📂 Explore all my projects on **[GitHub](https://github.com/muhammadnavas)**  
-- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammadnavas)**  
-- 🏆 Problem-solving on **[LeetCode](https://leetcode.com/muhammadnavas)**  
-- 📫 Reach me at **navasns0409@gmail.com**
+**AI/ML Developer | Computer Science Engineering Student**
 
----
+I enjoy building practical software at the intersection of **Artificial Intelligence, automation, and full-stack development**. I work on LLM-powered applications, intelligent agents, and web platforms — turning ideas into useful products.
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadnavas&show_icons=true&include_all_commits=true)
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadnavas)
-
-### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact)
+- 🎓 B.E. in Computer Science (AI & ML)
+- 🤖 Interested in LLMs, RAG systems, AI agents, and machine learning
+- 🛠️ Building with Python, FastAPI, React, and modern AI tools
+- 📄 [Resume](https://drive.google.com/file/d/1JQbsJLBnnsFfIwL0xQJIgNvjZ-EirBDD/view?usp=sharing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadnavas)
+- 🧩 [LeetCode](https://leetcode.com/muhammadnavas)
+- 📫 [Email](mailto:navasns0409@gmail.com)
 
 ---
 
-### 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### What I Work On
+
+- **AI Agents & Browser Automation** — multi-step task execution, browser interaction, action verification, and human-in-the-loop workflows.
+- **LLM Applications** — retrieval-augmented generation (RAG), document question answering, embeddings, and vector search.
+- **Machine Learning** — building and evaluating models for practical prediction and classification problems.
+- **Full-Stack Development** — designing APIs and responsive applications with modern frontend and backend technologies.
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**AI / Data / Tools**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadnavas&show_icons=true&include_all_commits=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnavas&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadnavas&hide_border=true)
 
 ---
 
