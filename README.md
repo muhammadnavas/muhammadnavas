@@ -7,7 +7,7 @@ I'm passionate about technology and software development, with an interest in bu
 - 🎓 B.E. in Computer Science (AI & ML)
 - 💡 Interested in Artificial Intelligence, Machine Learning, and Software Development
 - 🌱 Continuously learning and exploring emerging technologies
-- 📄 [Resume](https://drive.google.com/file/d/1JQbsJLBnnsFfIwL0xQJIgNvjZ-EirBDD/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1773hUDvfrOShj39RXtQd_XKnwx6B6Dge/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadnavas)
 - 🧩 [LeetCode](https://leetcode.com/muhammadnavas)
 - 📫 [Email](mailto:navasns0409@gmail.com)
